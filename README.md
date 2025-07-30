@@ -1,0 +1,1 @@
+A responsive Amazon.com clone built using HTML, CSS, and JavaScript. This project replicates the UI/UX of the Amazon homepage, including features like a product grid, search bar, navbar, and shopping cart layout.
